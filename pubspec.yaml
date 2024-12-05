@@ -1,0 +1,27 @@
+name: myapp
+description: A new Flutter project
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_gauges: ^22.2.12
+  percent_indicator: ^4.2.3
+  syncfusion_flutter_charts: ^22.2.12
+  syncfusion_flutter_core: ^22.2.12
+  cupertino_icons: ^1.0.2
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
